@@ -1,0 +1,39 @@
+﻿Weekly Assignment - 2 : Node
+
+
+Project description : A mini-Reddit clone.This project will involve creating RESTful APIs for users to make posts, comments, and upvote/downvote posts and comments. 
+
+
+Total assignment marks : 50 
+
+
+Deliverables [Total marks : 45] :
+
+
+1. User authentication : [8 marks]
+   1. Sign up
+   2. Login
+2. Post CRUD operations : [9 marks]
+   1. Creating a post
+   2. Reading a post
+   3. Updating a post
+   4. Deleting a post
+3. Comments on posts with CRUD operations : [9 marks]
+   1. Creating a comment on a post
+   2. Reading comments on a post
+   3. Updating a comment on a post
+   4. Deleting comments on a post
+4. Upvoting and Downvoting System for Posts and Comments : [9 marks]
+   1. Upvoting a post
+   2. Downvoting a post
+   3. Upvoting a comment
+   4. Downvoting a comment
+5. Integration of all the parts. [10 marks]
+
+
+Project Deployment & submission [Total marks : 5]: 
+1. Title of your folder in github should be in the following format : [3 marks]
+   1. “Your name, Node 2, Date of submission”
+   2. Example : “John_Doe_Node_2_9th_August”
+2. Once the assignment has been created, upload all the folders on github & commit (save) all the changes, make sure you add a readme file containing detailed description of your thoughts during the assignment creation. [1 mark]
+3. Once done, kindly copy the github link of your assignment & submit the same using your dashboard. [1 mark]
